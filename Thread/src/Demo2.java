@@ -2,8 +2,8 @@
 public class Demo2{
     public static void main(String[] args){
         // 创建一个新线程
-       createThread ct = new createThread();
-       ct.start(); // start 启用线程。 执行run方法
+        createThread ct = new createThread();
+        ct.start(); // start 启用线程。 执行run方法
         for (int i = 0; i < 20; i++){
             System.out.println("man() i:" + i);
         }
