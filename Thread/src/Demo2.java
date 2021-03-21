@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 // 继承 git test
+=======
+// 继承 Thread 实现 thread
+>>>>>>> Stashed changes
 public class Demo2{
     public static void main(String[] args){
         // 创建一个新线程
